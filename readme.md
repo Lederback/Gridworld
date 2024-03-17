@@ -1,4 +1,4 @@
-# Grid Pathing and Value Iteration
+# Gridworld
 Este repositório contém um código Python que implementa um algoritmo para encontrar o melhor caminho em uma grade de 8x8, usando iteração de valor para determinar os valores de cada célula da grade e uma busca gulosa para encontrar o melhor caminho de entrada para saída.
 
 ## Descrição
